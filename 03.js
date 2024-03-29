@@ -14,7 +14,7 @@
 //CONST
 // const pi="Akash";
 // pi=300;
-// console.log(Name);
+// console.log(pi);
 
 //naming rules for declaring variables
 // 1.cannot start with numbers
